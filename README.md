@@ -71,18 +71,20 @@
  ## Contribution Streak
 
 <p align="center">
-    <img title="Get streak stats for your profile at git.io/streak-stats" alt="SERGI0HERREROS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SERGI0HERREROS&theme=monokai-metallian&hide_border=true"/>
+    <img title="Get streak stats for your profile at git.io/streak-stats" alt="SERGI0HERREROS's streak" src="https://streak-stats.demolab.com/?user=SERGI0HERREROS"/>
 </p>
 
   
   
 ## GitHub Statistics
   
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SERSGI0HERREROS's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SERGI0HERREROS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SERGI0HERREROS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERGI0HERREROS&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SERGI0HERREROS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=SERGI0HERREROS&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   
-<br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SERGI0HERREROS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" /> 
+</div>
+
 
   
 ## Connect with me:
