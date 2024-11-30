@@ -18,7 +18,7 @@
 
 ## About Me
 <ul>
-  <li>I’m a final-year Computer Engineering student specializing in Computation</li>
+  <li>I’m a final-year Computer Engineering student specializing in Computation.</li>
   <li>I enjoy learning about Artificial Intelligence and Machine Learning.</li>
   <li>In my free time, I like exploring new technologies and expanding my knowledge in my interests.</li>
   <li>Currently, my repositories are private because I am carrying out university projects.</li>
